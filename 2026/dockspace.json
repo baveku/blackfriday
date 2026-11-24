@@ -1,0 +1,15 @@
+{
+  "name": "Dockspace",
+  "url": "https://getdock.space/#pricing",
+  "description": "Native Swift macOS Dock replacement and Liquid Glass widget bar with 174 live widgets, AI coding quotas, Disk Doctor cleaner, and a notch clipboard shelf",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off all Pro plans (Lifetime $19.99 → $9.99, Forever $49.99 → $24.99)",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "lifetime",
+  "price": { "regular": 19.99, "sale": 9.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-01",
+  "icon": "https://getdock.space/app-icon.png"
+}
